@@ -1,0 +1,39 @@
+---
+---
+
+html,body {
+  background: #F6F5ED;
+  margin: 0;
+  font-family: sans-serif;
+  padding: 0;
+  height: 100%;
+}
+
+.top {
+  text-align: center;
+  height: 60%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  height: 250px;
+}
+
+.bottom {
+  background: #AD2A4D;
+  color: #FFF;
+  text-align: center;
+  font-size: 20px;
+  height: 40%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  line-height: 1.5;
+}
+
+a {
+  color: #FFF;
+  text-decoration: none;
+}
